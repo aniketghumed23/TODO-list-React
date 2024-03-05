@@ -8,7 +8,7 @@ Dive into the elegance of simplicity with our To-Do List web application. Design
 
 Experience the fluidity and responsive design firsthand through our demonstration video:
 
-[View Demo Video](<video controls src="demo.mp4" title="https://user-images.githubusercontent.com/122649188/214991561-d29b14eb-560a-4ba4-aa12-0656278d3fc8.mp4"></video>)
+[Demo Video](https://github.com/aniketghumed23/TODO-list-React/blob/main/demo.mp4)
 
 ## Core Functionalities
 
