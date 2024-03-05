@@ -1,41 +1,34 @@
-# ReactJS-ToDoList
+# Elegant To-Do List Application
+
 ## Introduction
-This project implements the Front-End for a simple To-Do List web application, using the React JS library, and also Styled Components replacing pure CSS.<br/>
-It includes the login page and the general UI of the app. <br/>
-The login authentication logic and the tasks database for each user are not implemented, since this project aims to be a Front-End study only.
+
+Dive into the elegance of simplicity with our To-Do List web application. Designed with the modern user in mind, this application utilizes the React JS library and embraces Styled Components for a sleek, no-css styling approach. While focusing on the front-end spectrum, it showcases a sophisticated login interface and a well-organized user dashboard for managing tasks efficiently. Note that this version concentrates on front-end functionalities, excluding backend operations like login authentication and database integration for task management.
 
 ## Demonstration
 
+Experience the fluidity and responsive design firsthand through our demonstration video:
 
-https://user-images.githubusercontent.com/122649188/214991561-d29b14eb-560a-4ba4-aa12-0656278d3fc8.mp4
+[View Demo Video](<video controls src="demo.mp4" title="https://user-images.githubusercontent.com/122649188/214991561-d29b14eb-560a-4ba4-aa12-0656278d3fc8.mp4"></video>)
 
+## Core Functionalities
 
+- **Elegant Login Interface**: Featuring a Sign In button that seamlessly transitions users to the main app.
+- **Navigational Sidebar & Task Area**: A clean UI design for easy navigation and task management.
+- **Task Management**: Effortlessly add new tasks with name and category options, and delete tasks with a confirmation modal.
+- **Task Filtering**: Sort tasks by status ("done", "not done", "all") or category, enhancing organization.
+- **Access Control**: Implements basic authorization to ensure users are appropriately directed pre and post-login.
 
-## Inspiration
-The login page was inspired in [this design](https://dribbble.com/shots/17564792-Log-in-page-Untitled-UI/attachments/12710737?mode=media) by Jordan Hughes.
-The home page was inspired in [this design](https://dribbble.com/shots/14440819-KosmoTime-Task-Manager/attachments/6121947?mode=media) by Mik Skuza.
+> **Note**: Editing tasks and dynamic category management are future considerations for enriching the application's functionality.
 
-## Functionalities
-• Login page, including Sign In button, which redirects to the main application; <br/>
-• Application UI with navigation sidebar and area for the to-do list; <br/>
-• Add new task, setting name and categorie properties; <br/>
-• Delete task, with a modal for confirming the action; <br/>
-• Check task as done via checkbox; <br/>
-• Filter tasks showing in the to-do list by "done", "not done" or "all"; <br/>
-• Filter tasks showing in the to-do list by their categorie, via selecting on the sidebar; <br/>
-• Authorization: user cannot access home page before login, neither login page after logged. <br/>
+## Get Started
 
-Obs.: currently, the "edit task" and adding or removing categories functionalities are not implemented, since I considered it wouldn't contribute that much to my personal learning, and would be very time consuming. Maybe I'll implement this later on.
+Ready to explore? Follow these steps:
 
-## Usage
-If you want to try this project yourself:
-1. Install Node on your machine, via https://nodejs.org/en/.
-2. Install Yarn on your machine via terminal command: `sudo npm install -g yarn`
-3. Install Git on your machine, via https://git-scm.com/downloads.
-4. Clone this repository to your machine. (more on how to do this [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository))
-5. Run ```yarn install``` on the terminal, inside the folder where you downloaded the project, to install all used dependencies.
-6. Run `yarn start` to run the project on your browser.
+1. **Prepare Your Environment**: Ensure Node.js is installed on your device ([Node.js Download](https://nodejs.org/en/)).
+2. **Install Yarn**: Use the terminal command `sudo npm install -g yarn` for Yarn installation.
+3. **Git Installation**: Download Git ([Git Downloads](https://git-scm.com/downloads)) to clone the repository.
+4. **Clone the Repository**: Follow the [GitHub Guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for cloning.
+5. **Install Dependencies**: Navigate to the project directory and execute `yarn install` in your terminal.
+6. **Launch the Application**: Initiate the app with `yarn start`, and explore it in your browser.
 
-
-
-
+Embrace the blend of functionality and style with our To-Do List application, designed for the aesthetically inclined and productivity-focused individual.
